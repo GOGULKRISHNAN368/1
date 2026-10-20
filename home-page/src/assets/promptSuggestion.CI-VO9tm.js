@@ -1,0 +1,1 @@
+import{z as o}from"./main.xX0UAeTO.js";import{r as t}from"./icons.ofWx6Oua.js";const n=o("promptSuggestion",(()=>{const o=t(0);return{promptSuggestionAlreadyMounted:o,incrementPromptSuggestionMounted:function(){o.value++}}}));export{n as u};
